@@ -1,0 +1,8 @@
+We are going to create a system for local businesses, that will get straight to the point,
+it will focus on 3 most important elements:
+
+1. reviews
+2. content 
+3. links
+
+
